@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/0-Splash.unity
+    guid: 7238041e8d31f4d439b8851a5d4bb6fa
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/1-Menu.unity
+    guid: 1763269b9427b4a44957006a02f06c30
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/2-Loading.unity
+    guid: 22b8f383624ec49ef986b9155d212ac1
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-CloudReco.unity
+    guid: e434bc354d6d54b899b4fbf77b3118a3
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-CylinderTargets.unity
+    guid: b336b80db71704028995a1ea175dad4a
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-GroundPlane.unity
+    guid: 3151807591542436f9ddfbf021a1545d
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-ImageTargets.unity
+    guid: fa05b4f596c584dc79960294a1b601cc
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-ModelTargets.unity
+    guid: 530386685ba085242832bd5cc78d7222
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-MultiTargets.unity
+    guid: d5e3b9c64d95e4105b0f8c39cd4dc3bd
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-ObjectReco.unity
+    guid: 633a6cb9bd1704671bdefaba667099b2
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-UserDefinedTargets.unity
+    guid: 89ed636faaaf34959983482a021ac4e6
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-VirtualButtons.unity
+    guid: 319d9b92c918a47e192e3d3382615bc8
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-VuMark.unity
+    guid: d9b53b25a285640cf8ac170a80603e34
+  - enabled: 0
+    path: Assets/ARvideo.unity
+    guid: ce779976c5d54494e89e0b8626ea23a4
+  - enabled: 1
+    path: Assets/mainpage.unity
+    guid: 44e0c1aa70366694f952c366e9b40d87
+  - enabled: 1
+    path: Assets/English.unity
+    guid: af95ce212661533498e856d508e3dbdd
+  - enabled: 1
+    path: Assets/Sad.unity
+    guid: c35efecb5e81ddd43ae7070299de66a3
+  - enabled: 1
+    path: Assets/Punjabi.unity
+    guid: 35026a75ec3fa4f4487f69af7cfe0153
+  - enabled: 1
+    path: Assets/Rap.unity
+    guid: 16b26c78729edbf4aaf1689376f620a9
+  - enabled: 1
+    path: Assets/Scenes/english/Attention.unity
+    guid: 6dd1d7448a7a371429f14b7d11101f28
+  - enabled: 1
+    path: Assets/Scenes/english/Beautiful People.unity
+    guid: 1446c607b166fa04a9d5f38a1718a634
+  - enabled: 1
+    path: Assets/Scenes/english/Closer.unity
+    guid: 09283617405296d44a2f64f16b0befe7
+  - enabled: 1
+    path: Assets/Scenes/english/Don't let me down.unity
+    guid: c53e1dcf2ac0e9b429749c277aa20c58
+  - enabled: 1
+    path: Assets/Scenes/english/Friends.unity
+    guid: 6d94ddea6c8983947bc3721c6e7ffe5b
+  - enabled: 1
+    path: Assets/Scenes/english/Mi Gente.unity
+    guid: 4912f84d582b17b4584c9b7b4a2329aa
+  - enabled: 1
+    path: Assets/Scenes/english/Roar.unity
+    guid: 08deb48a64616874ebaa6f2439ea58f8
+  - enabled: 1
+    path: Assets/Scenes/punjabi/5 Taara.unity
+    guid: 23d9c74def3399e49978e026179dc20a
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Badnaam.unity
+    guid: 03e0c148057c8b5418d8cbddde5e0694
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Daaru Party.unity
+    guid: a099c05a4c886464f89fd9d156890783
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Dil tutda.unity
+    guid: 9ec288ec55b53c1429712c992fe7b8ef
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Gaal ni Kardi.unity
+    guid: 832ca0f43f66e1941a42b5ac632b8018
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Lehenga.unity
+    guid: d417c89d11eeaff4f962b414f6694bc5
+  - enabled: 1
+    path: Assets/Scenes/punjabi/Na Ja.unity
+    guid: 07c13d1bb72c2994695b50eabeba407d
+  - enabled: 1
+    path: Assets/Scenes/rap/Dheeme Dheeme.unity
+    guid: ecd03fe59a1c8194bb2f79565fd3407d
+  - enabled: 1
+    path: Assets/Scenes/rap/Makhna.unity
+    guid: eb63c49ea0749b34c9ce175264bbe41a
+  - enabled: 1
+    path: Assets/Scenes/rap/Paagal.unity
+    guid: cbf67e16d9222954d9613ce6f989c697
+  - enabled: 1
+    path: Assets/Scenes/rap/Saara India.unity
+    guid: b34a2e9569b588043952d3877bbc7dd3
+  - enabled: 1
+    path: Assets/Scenes/rap/Wakhra.unity
+    guid: 7bcf5b16962b27144b21666e5bd64394
+  - enabled: 1
+    path: Assets/Scenes/sad/Humsafar.unity
+    guid: c6e7d2c9826f95e4d8b43764fe27c08d
+  - enabled: 1
+    path: Assets/Scenes/sad/Kabhi jo badal barse.unity
+    guid: 1e481666a2f8b134d9a388aa04b747d0
+  - enabled: 1
+    path: Assets/Scenes/sad/Naina.unity
+    guid: 6a1a24bb7bea3c94780033ff056fc0a6
+  - enabled: 1
+    path: Assets/Scenes/sad/Raabta.unity
+    guid: c1f195aef1a433345bf6a60870e617ca
+  - enabled: 1
+    path: Assets/Scenes/sad/Yaara teri yaari ko khuda mana.unity
+    guid: fc4433e45a1cd25418fabd43750afbf9
+  m_configObjects: {}
